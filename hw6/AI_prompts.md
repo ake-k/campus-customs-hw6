@@ -94,3 +94,12 @@ This file records the prompts I gave my AI coding assistant, one section per pro
 > Create output/hw6_report.html (this should be one file that can be opened by double-clicking on it with no internet and no other files next to it). The page should include five things, with real numbers from the earlier problems: the caching results, with a chart; attacks before and after the defenses; what the defenses cost in tokens and dollars; the exam results and the two red team attacks; a brief recommendation for the store manager -- should Campus Customs turn this agent on for real vendor mail, and what would it cost per month at 1,000 documents per day? The page should have a well designed style (with coherent font, color, layout, etc.) and easily legible.
 
 **Follow-up:** None needed.
+
+---
+
+## Problem 10 — Push to GitHub and submit the URL
+
+**Prompt:**
+> Push the project to a public GitHub repository and provide me the repo URL in the chat. Graders will clone this, so all the files in the file tree (see screenshot attached) should be in there. Include the whole data/ folder containing the course data plus the two attack files, so graders can clone the repo and run the agent right away. Do NOT commit the real .env, and use .gitignore to keep it out, including only .env.example with placeholders. It is fine if there are other Python files beyond what's listed in the file tree. Also, add a short README.md on how to run the agent.
+
+**Follow-up:** None needed.
