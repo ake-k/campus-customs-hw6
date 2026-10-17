@@ -1,0 +1,5 @@
+# Publish only the hw6/ project. Anything else in this folder stays on this machine.
+/*
+!/.gitignore
+!/README.md
+!/hw6/

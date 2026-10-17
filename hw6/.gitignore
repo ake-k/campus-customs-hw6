@@ -1,0 +1,11 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# local environment
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store
